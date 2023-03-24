@@ -31,19 +31,19 @@ class _HomePageState extends State<HomePage> {
             AppButton(
               operation: 'POST',
               operationColor: Colors.lightGreen,
-              description: 'Fetch users',
+              description: 'Add users',
               onPressed: () {},
             ),
             AppButton(
               operation: 'PUT',
               operationColor: Colors.lightGreen,
-              description: 'Fetch users',
+              description: 'update users',
               onPressed: () {},
             ),
             AppButton(
               operation: 'DEL',
               operationColor: Colors.lightGreen,
-              description: 'Fetch users',
+              description: 'delete users',
               onPressed: () {},
             ),
           ],
